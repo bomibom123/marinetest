@@ -1,0 +1,9 @@
+@font-face {
+  font-family: SejongBold;
+  src: url('./fonts/Sejong\ hospital\ Bold.ttf');
+}
+
+@font-face {
+  font-family: SejongLight;
+  src: url('./fonts/Sejong\ hospital\ Light.ttf');
+}
