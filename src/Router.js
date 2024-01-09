@@ -15,7 +15,7 @@ import ScrollToTop from './ScrollToTop';
 
 function DefaultRouter() {
   return (
-    <Router basename="/MarineCharacterTest">
+    <Router basename="/marinetest">
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Lending />} />
