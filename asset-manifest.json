@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/marinetest/static/css/main.f7cba30c.css",
+    "main.js": "/marinetest/static/js/main.6eb7cd12.js",
+    "static/js/787.942bb1f2.chunk.js": "/marinetest/static/js/787.942bb1f2.chunk.js",
+    "static/media/poster.jpeg": "/marinetest/static/media/poster.6d25dec5aa6616f83bf9.jpeg",
+    "static/media/Sejong hospital Bold.ttf": "/marinetest/static/media/Sejong hospital Bold.0270d7801f8df96f1870.ttf",
+    "static/media/Sejong hospital Light.ttf": "/marinetest/static/media/Sejong hospital Light.3c1d2db5782b38b23cb4.ttf",
+    "static/media/dolphin.jpeg": "/marinetest/static/media/dolphin.e86732981f9d2977bc70.jpeg",
+    "static/media/manta.jpeg": "/marinetest/static/media/manta.63599ece3ab9393c7fe8.jpeg",
+    "static/media/monk.jpeg": "/marinetest/static/media/monk.4041d0d527e70b90634b.jpeg",
+    "index.html": "/marinetest/index.html",
+    "main.f7cba30c.css.map": "/marinetest/static/css/main.f7cba30c.css.map",
+    "main.6eb7cd12.js.map": "/marinetest/static/js/main.6eb7cd12.js.map",
+    "787.942bb1f2.chunk.js.map": "/marinetest/static/js/787.942bb1f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7cba30c.css",
+    "static/js/main.6eb7cd12.js"
+  ]
+}
